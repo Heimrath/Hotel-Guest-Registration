@@ -24,3 +24,8 @@ Program for registering, checking in and checking out guests in a hotel </br> </
 ## Room occupancy
   ![image](https://github.com/user-attachments/assets/a912029e-d0bf-4c14-8bac-6f5ee6e4b35f)
 
+## Collaboration 
+Joao Guilherme Costa Couto </br>
+Luis Augusto Coelho de Souza </br>
+Matheus Heimrath Barbosa </br>
+
